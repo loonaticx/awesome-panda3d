@@ -24,7 +24,7 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 * [Thaumaturge's Beginner's Tutorial](https://arsthaumaturgis.github.io/Panda3DTutorial.io/):
   A set of lessions that teach the basics of creating a game using Panda3D, from the fundamentals to building a distributable version
 * [Lettier's 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners):
-  A "a collection of shading techniques that will take your game visuals to new heights" with plenty of explanations that also  uses Panda3D for the example code.
+  A "a collection of shading techniques that will take your game visuals to new heights" with plenty of explanations that also uses Panda3D for the example code.
 
 ## Code Snippets
 * [TheCheapestPixels' Panda3D Examples](https://github.com/TheCheapestPixels/panda_examples):
@@ -35,14 +35,18 @@ A curated list of awesome resources for using [Panda3D](https://www.panda3d.org/
 ## Modules
 * [tobspr's RenderPipeline](https://github.com/tobspr/RenderPipeline):
   A beautiful deferred realtime rendering pipeline with physically based shading and many builtin effects
+* [tobspr's LUI (Lightweight User Interface)](https://github.com/tobspr/RenderPipeline):
+  A clean and simple lightweight user interface
 * [Fireclaw's Character Controller](https://launchpad.net/extended-char-controller):
   A ready to use character controller with extensive feature set for multiple genres
 * [CFSworks's Limeade](https://github.com/CFSworks/limeade):
   Refresh your Python code without restarting your Panda app
 * [TheCheapestPixels' Stageflow](https://github.com/TheCheapestPixels/panda3d-stageflow):
   Encapsulate stages of your game (splashs, credits, cutscenes, menus...)
-* [panda3d-simplepbr](https://github.com/Moguri/panda3d-simplepbr/)
+* [panda3d-simplepbr](https://github.com/Moguri/panda3d-simplepbr/):
   A simple, basic, lightweight, no-frills PBR render pipeline for Panda3D 
+* [thetestgame's PandaChromium](https://github.com/thetestgame/PandaChromium/):
+  A library for implementing CEFPython into Panda3D. It allows you to render HTML5 content in the Panda3D scene graph
 
 ## Tools
 * [pman](https://github.com/Moguri/pman):
